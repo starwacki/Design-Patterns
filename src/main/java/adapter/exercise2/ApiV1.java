@@ -1,4 +1,4 @@
-package exercise2;
+package adapter.exercise2;
 
 public interface ApiV1 {
 

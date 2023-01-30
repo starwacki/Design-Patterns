@@ -1,4 +1,4 @@
-package exercise2;
+package adapter.exercise2;
 
 public class ApiV1Impl implements ApiV1{
     @Override

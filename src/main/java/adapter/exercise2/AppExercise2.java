@@ -1,4 +1,4 @@
-package exercise2;
+package adapter.exercise2;
 
 public class AppExercise2 {
     public static void main(String[] args) {
