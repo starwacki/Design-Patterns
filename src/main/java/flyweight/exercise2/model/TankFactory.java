@@ -1,9 +1,6 @@
-package exercise2.model;
+package flyweight.exercise2.model;
 
-import exercise2.TankAbstractFactory;
-import exercise2.model.Tank;
-import exercise2.model.TankModel;
-import exercise2.model.Unit;
+import flyweight.exercise2.TankAbstractFactory;
 
 public class TankFactory implements TankAbstractFactory {
 

@@ -1,4 +1,4 @@
-package exercise2.model;
+package flyweight.exercise2.model;
 
 public abstract class Unit {
 

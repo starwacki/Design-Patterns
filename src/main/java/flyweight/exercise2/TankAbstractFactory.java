@@ -1,6 +1,6 @@
-package exercise2;
+package flyweight.exercise2;
 
-import exercise2.model.Unit;
+import flyweight.exercise2.model.Unit;
 
 public interface TankAbstractFactory {
 

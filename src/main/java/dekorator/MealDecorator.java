@@ -2,7 +2,7 @@ package dekorator;
 
 public  abstract class MealDecorator extends Meal {
 
-      Meal meal;
+    Meal meal;
 
     public MealDecorator(Meal meal) {
         this.meal = meal;

@@ -1,8 +1,7 @@
-package exercise2;
+package flyweight.exercise2;
 
-import exercise2.model.Solider;
-import exercise2.model.SoliderFactory;
-import exercise2.model.Unit;
+import flyweight.exercise2.model.SoliderFactory;
+import flyweight.exercise2.model.Unit;
 
 public class App {
     public static void main(String[] args) {

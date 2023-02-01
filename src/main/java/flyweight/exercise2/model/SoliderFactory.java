@@ -1,9 +1,6 @@
-package exercise2.model;
+package flyweight.exercise2.model;
 
-import exercise2.SoliderAbstractFactory;
-import exercise2.model.Solider;
-import exercise2.model.SoliderType;
-import exercise2.model.Unit;
+import flyweight.exercise2.SoliderAbstractFactory;
 
 public class SoliderFactory implements SoliderAbstractFactory {
 
